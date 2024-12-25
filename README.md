@@ -18,5 +18,6 @@ Hence, I present to you this simple Python program to get the urls to the video 
 ![how to select url](https://raw.githubusercontent.com/EmperorShade/doubtnut-paywall-bypass/refs/heads/main/misc/choosing%20url.png)
 
 #### Paste it in the terminal after running ```doubtnutvid.py```. It will output the direct link to the video solution to the question after completion.
- ![final output](https://github.com/EmperorShade/doubtnut-paywall-bypass/blob/main/misc/terminal%20output.png)
+ ![terminal output](https://github.com/EmperorShade/doubtnut-paywall-bypass/blob/main/misc/terminal%20output.png)
+ ![final output](https://github.com/EmperorShade/doubtnut-paywall-bypass/blob/main/misc/final%20vid.png)
  
