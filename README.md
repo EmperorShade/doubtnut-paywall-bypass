@@ -13,10 +13,10 @@ Hence, I present to you this simple Python program to get the urls to the video 
 ![downloading chromedriver.exe](https://github.com/EmperorShade/doubtnut-paywall-bypass/blob/main/misc/chromedriver%20download.png?)
 
 ## How to use
-#### Copy the url of the question page and paste it in the terminal after running the script.
+#### Copy the url of the question page.
 
 ![how to select url](https://raw.githubusercontent.com/EmperorShade/doubtnut-paywall-bypass/refs/heads/main/misc/choosing%20url.png)
 
-#### It will output the direct link to the video solution to the question.
+#### Paste it in the terminal after running the script. It will output the direct link to the video solution to the question after completion.
  ![final output](https://github.com/EmperorShade/doubtnut-paywall-bypass/blob/main/misc/terminal%20output.png)
  
